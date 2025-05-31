@@ -319,7 +319,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **University of Maryland, College Park** - Computer Science Department
+- **University of Maryland, College Park** - Zaratan Cluster
 - **Open Source Community** - For optimization libraries and distributed training frameworks
 
 ---
