@@ -44,7 +44,7 @@ pip install gurobipy
 ### Quick Install
 
 ```bash
-git clone https://github.com/yourusername/HeRMES.git
+git clone https://github.com/tusu18/HeRMES.git
 cd HeRMES
 pip install -e .
 ```
